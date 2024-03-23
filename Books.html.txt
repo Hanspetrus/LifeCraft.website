@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<head><title>Books</title></head>
+<body>
+<header>
+<a href="index.html">
+<img src="img/logo.jpg" alt="Life Craft" title="Life Craft - Master Your Life">
+<img src="img/snowflake.jpg" width="30%" height="30%"
+title="Everything in existence holds a perfect harmonic blueprint">
+</a>
+</header>
+</body>
